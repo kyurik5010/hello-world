@@ -2,4 +2,10 @@
 The first step
 
 """Zdrasty, this is my first commit. 
-I'll keep it slow and simple"""
+Keepin' it simple"""
+
+alpha  # Hello
+beta  # world
+
+x = '{1} {0}'.format(beta, alpha)
+print(x + '!')
